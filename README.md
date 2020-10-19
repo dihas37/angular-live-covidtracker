@@ -1,43 +1,46 @@
-# Project Name
-> Live COVID-19 Tracker!
-
-## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-
+## Live COVID-19 Tracker
+  This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.28.
 ## General info
-The Covid-tracker aggregates information that is publicly accessible from databases of global statistics & can be used to access country wise results. Rich visualisations in a responsive user interface render the tracker user friendly and interactive.
+  The Covid-tracker aggregates information that is publicly accessible from databases of global statistics & can be used to access country wise results. Rich visualisations in a   responsive user interface render the tracker user friendly and interactive.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Angular CLI - version 8.3.28
+* Bootstrap - version 4.5.0
+* Jquery - version 3.5.1
+* chart.js - version 2.9.3
+* ng2-chart - version 2.3.2
+* ngx-countup - version 7.3.1
+* popperjs - version 2.4.4
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
+```shell
+`npm install --save @angular/cli bootstrap chart.js ng2-charts ngx-countup`
+```
+```shell
+"styles": [
+             "src/styles.css",
+             "node_modules/bootstrap/dist/css/bootstrap.min.css"
+          ]
+"scripts": [
+              "./node_modules/jquery/dist/jquery.js",
+              "./node_modules/bootstrap/dist/js/bootstrap.min.js"
+           ]
+```
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+The Covidtracker application is used to display the number of people affected by pandemic worldwide. It uses a third-party API github repo for all requests. API is present over at https://covid19.mathdro.id/api
+* Covidtracker uses a responsive design pattern and is very user friendly
+* Can retrive the number of people affected by covid-19 world-wide
+* Number of people affected can be filtered by country
+* Retrived information can be displayed using a bar chart
+* Overall statistics of data retrived are shown using line chart
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
-
-
-
-# Covidtracker
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.28.
-
+```shell
+Project is: _completed_
+```
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
