@@ -10,7 +10,7 @@
 * [Status](#status)
 
 ## General info
-The Covid-tracker aggregates information that is publicly accessible from databases of global statistics & can be used to access country wise results. Rich visualisations in a responsive user interface render the tracker user friendly and interactive.!
+The Covid-tracker aggregates information that is publicly accessible from databases of global statistics & can be used to access country wise results. Rich visualisations in a responsive user interface render the tracker user friendly and interactive.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
