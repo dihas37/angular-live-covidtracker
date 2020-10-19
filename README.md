@@ -1,3 +1,39 @@
+# Project Name
+> Live COVID-19 Tracker!
+
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+
+## General info
+The Covid-tracker aggregates information that is publicly accessible from databases of global statistics & can be used to access country wise results. Rich visualisations in a responsive user interface render the tracker user friendly and interactive.!
+
+## Screenshots
+![Example screenshot](./img/screenshot.png)
+
+## Technologies
+* Tech 1 - version 1.0
+* Tech 2 - version 2.0
+* Tech 3 - version 3.0
+
+## Setup
+Describe how to install / setup your local environement / add link to demo version.
+
+## Features
+List of features ready and TODOs for future development
+* Awesome feature 1
+* Awesome feature 2
+* Awesome feature 3
+
+## Status
+Project is: _in progress_, _finished_, _no longer continue_ and why?
+
+
+
 # Covidtracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.28.
