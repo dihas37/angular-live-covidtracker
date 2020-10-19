@@ -1,7 +1,7 @@
 ## Live COVID-19 Tracker
   This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.28.
 ## General info
-  The Covid-tracker aggregates information that is publicly accessible from databases of global statistics & can be used to access country wise results. Rich visualisations in a   responsive user interface render the tracker user friendly and interactive.
+  The Covid-tracker tracks aggregates information that is publicly accessible from databases of global statistics & can be used to access country wise results. Rich visualisations in a   responsive user interface render the tracker user friendly and interactive.
 
 ## Screenshots
 
