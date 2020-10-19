@@ -4,6 +4,7 @@
   The Covid-tracker tracks aggregates information that is publicly accessible from databases of global statistics & can be used to access country wise results. Rich visualisations in a   responsive user interface render the tracker user friendly and interactive.
 
 ## Screenshots
+<img src="https://user-images.githubusercontent.com/67599320/96492619-8f493780-1261-11eb-8b7e-d456395f1da8.jpg" alt="resize1" width="300"> &emsp;&emsp;&emsp; <img src="https://user-images.githubusercontent.com/67599320/96492643-9708dc00-1261-11eb-9593-dc8b2cded142.jpg" alt="resize2" width="300">
 
 
 ## Technologies
